@@ -1,4 +1,4 @@
-[![Api giphy sheryarali](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![Api giphy sheryarali](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hello 👋, I'm Sheryar Ali</h1>
 
