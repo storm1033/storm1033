@@ -9,46 +9,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 ## Technologies & Tools 🛠️
 
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="80"
-      height="80"
-    />
-  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -81,6 +41,65 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
+      width="80"
+      height="80"
+    />
+  </a>
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="80"
+      height="80"
+    />
+  </a>
+  
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="80"
+      height="80"
+    />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
       width="80"
       height="80"
     />
@@ -153,23 +172,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="80"
-      height="80"
-    />
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -188,33 +190,19 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 
 ## Professional Experience 💼
 
-<p align="left">
-  <a href="https://techscape.pk" target="_blank" >
-    <img
-      src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
-      alt="Techscape"
-      height="80"
-    />
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <a href="https://techscape.pk" target="_blank">
+    <img src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png" alt="Techscape" height="80" />
   </a>
-  <br>
-  <br>
-  <a href="https://www.developersdens.com/home" target="_blank" >
-    <img
-      src="https://www.developersdens.com/assets/dev_den_logo_white.png"
-      alt="DevelopersDen"
-      height="80"
-    />
+
+  <a href="https://www.developersdens.com/home" target="_blank">
+    <img src="https://www.developersdens.com/assets/dev_den_logo_white.png" alt="DevelopersDen" height="80" />
   </a>
-  <br>
-  <br>
-  <a href="https://ecofin.com.pk/#/home" target="_blank" >
-    <img
-      src="https://ecofin.com.pk/assets/img/jorr-logo-removebg.png"
-      alt="JORR"
-      height="80"
-    />
+
+  <a href="https://ecofin.com.pk/#/home" target="_blank">
+    <img src="https://ecofin.com.pk/assets/img/jorr-logo-removebg.png" alt="JORR" height="80" />
   </a>
-  </p>
+</div>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
 - Developed robust and scalable backend systems using Node and Laravel, leveraging the power of websockets.
