@@ -212,6 +212,9 @@ I have gained valuable experience working on various projects, and here are a fe
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
+
+## Goals 🎯
+
 My journey as a developer is constantly evolving, and here are some of my goals:
 
 - Master Node JS and its ecosystem, contributing to open source projects and creating innovative solutions.
